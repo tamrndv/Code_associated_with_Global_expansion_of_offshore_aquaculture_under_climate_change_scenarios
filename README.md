@@ -1,4 +1,4 @@
-This repository contains the R code associated with the manuscript "Global expansion of offshore aquaculture under climate change scenarios" (before publication). The code includes three main sections:
+This repository contains the R code associated with the article "Global expansion of offshore aquaculture under climate change scenarios" (before publication). The code includes three main sections:
 
 S0: Auxiliary functions. Set of functions used frequently throughout the code.
 
